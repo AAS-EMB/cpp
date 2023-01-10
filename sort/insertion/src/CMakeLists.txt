@@ -1,0 +1,2 @@
+add_library(sortInsertion INTERFACE)
+target_include_directories(sortInsertion INTERFACE .)
